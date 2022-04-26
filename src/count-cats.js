@@ -34,16 +34,8 @@ function countCats(matrix) {
     return number;
   }
 
-  // throw new NotImplementedError('Not implemented');
-  // remove line with error and write your code here
 }
 
 module.exports = {
   countCats
 };
-countCats([]);
-// countCats([
-//   ['##', 'dd', '00'],
-//   ['^^', '..', 'ss'],
-//   ['AA', 'dd', 'Oo'],
-// ])
